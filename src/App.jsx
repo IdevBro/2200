@@ -6,7 +6,7 @@ function App() {
       <h1>AppJs</h1>
       <p>salom</p>
       <span>Salom</span>
-      <h1>Hello</h1>
+      <h1>paka</h1>
       <div>
         <h1>Hi</h1>
       </div>
