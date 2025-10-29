@@ -7,6 +7,9 @@ function App() {
       <p>salom</p>
       <span>Salom</span>
       <h1>Hello</h1>
+      <div>
+        <h1>Hi</h1>
+      </div>
     </div>
   );
 }
